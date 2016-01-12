@@ -1,0 +1,20 @@
+c:\users\west.vazquez\documents\visual studio 2010\Projects\Calculator in Visual Basic\Calculator in Visual Basic\bin\Debug\Calculator in Visual Basic.exe
+c:\users\west.vazquez\documents\visual studio 2010\Projects\Calculator in Visual Basic\Calculator in Visual Basic\bin\Debug\Calculator in Visual Basic.pdb
+c:\users\west.vazquez\documents\visual studio 2010\Projects\Calculator in Visual Basic\Calculator in Visual Basic\bin\Debug\Calculator in Visual Basic.xml
+c:\users\west.vazquez\documents\visual studio 2010\Projects\Calculator in Visual Basic\Calculator in Visual Basic\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\west.vazquez\documents\visual studio 2010\Projects\Calculator in Visual Basic\Calculator in Visual Basic\obj\x86\Debug\Calculator_in_Visual_Basic.Form1.resources
+c:\users\west.vazquez\documents\visual studio 2010\Projects\Calculator in Visual Basic\Calculator in Visual Basic\obj\x86\Debug\Calculator_in_Visual_Basic.Resources.resources
+c:\users\west.vazquez\documents\visual studio 2010\Projects\Calculator in Visual Basic\Calculator in Visual Basic\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\west.vazquez\documents\visual studio 2010\Projects\Calculator in Visual Basic\Calculator in Visual Basic\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\west.vazquez\documents\visual studio 2010\Projects\Calculator in Visual Basic\Calculator in Visual Basic\obj\x86\Debug\Calculator in Visual Basic.exe
+c:\users\west.vazquez\documents\visual studio 2010\Projects\Calculator in Visual Basic\Calculator in Visual Basic\obj\x86\Debug\Calculator in Visual Basic.xml
+c:\users\west.vazquez\documents\visual studio 2010\Projects\Calculator in Visual Basic\Calculator in Visual Basic\obj\x86\Debug\Calculator in Visual Basic.pdb
+C:\Users\mlaboszc\Downloads\CalculatorinVisualBasic\Calculator in Visual Basic\Calculator in Visual Basic\obj\x86\Debug\Calculator in Visual Basic.exe
+C:\Users\mlaboszc\Downloads\CalculatorinVisualBasic\Calculator in Visual Basic\Calculator in Visual Basic\obj\x86\Debug\Calculator in Visual Basic.xml
+C:\Users\mlaboszc\Downloads\CalculatorinVisualBasic\Calculator in Visual Basic\Calculator in Visual Basic\obj\x86\Debug\Calculator in Visual Basic.pdb
+C:\Users\mlaboszc\Downloads\CalculatorinVisualBasic\Calculator in Visual Basic\Calculator in Visual Basic\bin\Debug\Calculator in Visual Basic.exe
+C:\Users\mlaboszc\Downloads\CalculatorinVisualBasic\Calculator in Visual Basic\Calculator in Visual Basic\bin\Debug\Calculator in Visual Basic.pdb
+C:\Users\mlaboszc\Downloads\CalculatorinVisualBasic\Calculator in Visual Basic\Calculator in Visual Basic\bin\Debug\Calculator in Visual Basic.xml
+C:\Users\mlaboszc\Downloads\CalculatorinVisualBasic\Calculator in Visual Basic\Calculator in Visual Basic\obj\x86\Debug\Calculator_in_Visual_Basic.Form1.resources
+C:\Users\mlaboszc\Downloads\CalculatorinVisualBasic\Calculator in Visual Basic\Calculator in Visual Basic\obj\x86\Debug\Calculator_in_Visual_Basic.Resources.resources
+C:\Users\mlaboszc\Downloads\CalculatorinVisualBasic\Calculator in Visual Basic\Calculator in Visual Basic\obj\x86\Debug\Calculator in Visual Basic.vbproj.GenerateResource.Cache
